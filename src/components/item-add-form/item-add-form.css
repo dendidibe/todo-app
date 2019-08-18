@@ -1,0 +1,10 @@
+.item-add-form {
+  margin-top: 10px;
+  align-items: center;
+}
+.item-add-form__input {
+  margin-right: 10px;
+}
+.item-add-form .btn {
+  width: 200px;
+}
